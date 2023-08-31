@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2em;
+    background-color: #f4f4f4;
+}
+
+form {
+    background-color: #fff;
+    padding: 2em;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+label, p {
+    margin-bottom: 0.5em;
+}
+
+input, select, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1em;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+button {
+    width: auto;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px 15px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
