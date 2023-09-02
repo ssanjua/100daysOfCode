@@ -18,3 +18,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 ### 05_surveyForm
 
 ### 06_boxModel_rothkoPainting
+
+### 07_CSS_flexbox_photoGallery
+
+### 08_typhography
