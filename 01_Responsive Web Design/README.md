@@ -36,10 +36,16 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 ### 07_CSS_flexbox_photoGallery
 
-
+<a href="https://photogallery.paupallares.repl.co">photogallery.paupallares.repl.co</a>
 
 ### 08_typhography
 
+<a href="https://typhography.paupallares.repl.co">typhography.paupallares.repl.co</a>
+
 ### 09_accessibility_buildingQuiz
 
+<a href="https://quiz.paupallares.repl.co">quiz.paupallares.repl.co</a>
+
 ### 10_tributePage
+
+<a href="https://ribtepage.paupallares.repl.co">ribtepage.paupallares.repl.co</a>t
