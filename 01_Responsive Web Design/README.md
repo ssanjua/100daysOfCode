@@ -16,15 +16,15 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 ### 02_basicCSS_cafeMenu
 
-[https://cafemenu.paupallares.repl.co](url)
+<a href="https://cafemenu.paupallares.repl.co">cafemenu.paupallares.repl.co</a>
 
 ### 03_CSS_coloredMarkers
 
-[https://coloredmarkers.paupallares.repl.co](url)
+<a href="https://coloredmarkers.paupallares.repl.co">coloredmarkers.paupallares.repl.co</a>
 
 ### 04_HTML_registerForm
 
-[https://registerform.paupallares.repl.co](url)
+<a href="https://registerform.paupallares.repl.co">registerform.paupallares.repl.co</a>
 
 ### 05_surveyForm
 
