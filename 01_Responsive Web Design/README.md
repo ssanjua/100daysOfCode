@@ -12,40 +12,40 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 ### 01_catPhotoApp 
 
-<a href="https://catphotoapp.paupallares.repl.co">catphotoapp.paupallares.repl.co</a>
+<a href="https://catphotoapp.ssanjua.repl.co">catphotoapp.ssanjua.repl.co</a>
 
 ### 02_basicCSS_cafeMenu
 
-<a href="https://cafemenu.paupallares.repl.co">cafemenu.paupallares.repl.co</a>
+<a href="https://cafemenu.ssanjua.repl.co">cafemenu.ssanjua.repl.co</a>
 
 ### 03_CSS_coloredMarkers
 
-<a href="https://coloredmarkers.paupallares.repl.co">coloredmarkers.paupallares.repl.co</a>
+<a href="https://coloredmarkers.ssanjua.repl.co">coloredmarkers.ssanjua.repl.co</a>
 
 ### 04_HTML_registerForm
 
-<a href="https://registerform.paupallares.repl.co">registerform.paupallares.repl.co</a>
+<a href="https://registerform.ssanjua.repl.co">registerform.ssanjua.repl.co</a>
 
 ### 05_surveyForm
 
-<a href="https://surveyform.paupallares.repl.co">surveyform.paupallares.repl.co</a>
+<a href="https://surveyform.ssanjua.repl.co">surveyform.ssanjua.repl.co</a>
 
 ### 06_boxModel_rothkoPainting
 
-<a href="https://rothkopainting.paupallares.repl.co">rothkopainting.paupallares.repl.co</a>
+<a href="https://rothkopainting.ssanjua.repl.co">rothkopainting.ssanjua.repl.co</a>
 
 ### 07_CSS_flexbox_photoGallery
 
-<a href="https://photogallery.paupallares.repl.co">photogallery.paupallares.repl.co</a>
+<a href="https://photogallery.ssanjua.repl.co">photogallery.ssanjua.repl.co</a>
 
 ### 08_typhography
 
-<a href="https://typhography.paupallares.repl.co">typhography.paupallares.repl.co</a>
+<a href="https://typhography.ssanjua.repl.co">typhography.ssanjua.repl.co</a>
 
 ### 09_accessibility_buildingQuiz
 
-<a href="https://quiz.paupallares.repl.co">quiz.paupallares.repl.co</a>
+<a href="https://quiz.ssanjua.repl.co">quiz.ssanjua.repl.co</a>
 
 ### 10_tributePage
 
-<a href="https://ribtepage.paupallares.repl.co">ribtepage.paupallares.repl.co</a>t
+<a href="https://ribtepage.ssanjua.repl.co">ribtepage.ssanjua.repl.co</a>t
