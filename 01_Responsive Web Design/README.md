@@ -48,8 +48,12 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 ### 10_tributePage
 
-<a href="https://ribtepage.ssanjua.repl.co">ribtepage.ssanjua.repl.co</a>t
+<a href="https://ribtepage.ssanjua.repl.co">ribtepage.ssanjua.repl.co</a>
 
 ### 11_balanceSheet
 
-<a href="https://ribtepage.ssanjua.repl.co">ribtepage.ssanjua.repl.co</a>t
+<a href="https://ribtepage.ssanjua.repl.co">ribtepage.ssanjua.repl.co</a>
+
+### 12_catPainting
+
+<a href="https://catpainting.ssanjua.repl.co">catpainting.ssanjua.repl.co</a>
