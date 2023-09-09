@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  #navbar {
+    width: 300px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: #f0f0f0;
+  }
+  
+  #main-doc {
+    margin-left: 300px;
+    padding: 20px;
+  }
+  
+  .main-section {
+    margin-bottom: 20px;
+  }
+  
+  .nav-link {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  @media (max-width: 600px) {
+    #navbar {
+      width: 100%;
+      height: auto;
+      position: static;
+    }
+    #main-doc {
+      margin-left: 0;
+    }
+  }
+  
