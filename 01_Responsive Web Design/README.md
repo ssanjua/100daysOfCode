@@ -66,6 +66,10 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 <a href="https:/documentation.ssanjua.repl.co">documentation.ssanjua.repl.co</a>
 
-### 14_citySkyline
+### 15_citySkyline
 
 <a href="https:/cityskyline.ssanjua.repl.co">cityskyline.ssanjua.repl.co</a>
+
+### 16_magazine
+
+<a href="https:/magazine.ssanjua.repl.co">magazine.ssanjua.repl.co</a>
