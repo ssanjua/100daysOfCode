@@ -73,3 +73,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 ### 16_magazine
 
 <a href="https:/magazine.ssanjua.repl.co">magazine.ssanjua.repl.co</a>
+
+### 18_ferrisWheels
+
+<a href="https:/ferris.ssanjua.repl.co">ferris.ssanjua.repl.co</a>
