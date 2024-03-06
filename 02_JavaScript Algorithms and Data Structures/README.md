@@ -10,3 +10,4 @@
 08 - decimal --
 09 - roman converter
 10 - sort
+11 - statistic Calculator
