@@ -11,3 +11,5 @@
 09 - roman converter
 10 - sort
 11 - statistic Calculator
+12 - 
+13 - spamFilter
