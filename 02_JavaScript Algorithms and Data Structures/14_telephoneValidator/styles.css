@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgrey;
+}
+
+input {
+    padding: 20px;
+    border-radius: 25px;
+}
+
+#app {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#user-input {
+    margin-bottom: 20px;
+}
+
+#results-div {
+    margin-top: 20px;
+    font-weight: bold;
+}
